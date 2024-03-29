@@ -52,6 +52,7 @@ body {
 }
 
 .product__wrapper {
+    height: 600px;
     display: block;
     border: 1px solid gray;
     border-radius: 16px;
